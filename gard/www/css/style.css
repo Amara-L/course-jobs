@@ -1,0 +1,97 @@
+table {
+    /*border: 1px solid grey;*/
+    /*width: 80%;*/
+    /*text-align: center;*/
+    /*font-family: ‘Source Sans Pro’, sans-serif;*/
+    /*font-size: 18px;*/
+    /*line-height: 32px;*/
+    /*margin: 0 0 24px;*/
+    border-spacing: 0 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+li{
+    list-style-type: none;
+}
+
+#viv{
+    margin-left: -5%;
+}
+
+#glav{
+    font: 32px "Times New Roman", Times, serif;
+    color: #5a5959;
+    text-decoration: none;
+}
+
+/*th {border: 1px solid grey;}*/
+
+/*td {border: 1px solid grey;}*/
+
+th {
+    padding: 10px 20px;
+    background: #825B20;
+    color: #F1D783;
+    border-right: 2px solid;
+    font-size: 0.9em;
+}
+th:first-child {
+    text-align: left;
+}
+th:last-child {
+    border-right: none;
+}
+td {
+    vertical-align: middle;
+    padding: 10px;
+    font-size: 14px;
+    text-align: center;
+    border-top: 2px solid #825B20;
+    border-bottom: 2px solid #825B20;
+    border-right: 2px solid #825B20;
+}
+td:first-child {
+    border-left: 2px solid #825B20;
+    border-right: none;
+}
+td:nth-child(2){
+    text-align: left;
+}
+
+body{
+    /*background-color: cadetblue;*/
+    background-image: url("../img/avto.jpg");
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+
+section{
+    /*background-color: white;*/
+    margin-top: 2em;
+    margin-left: 40%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    width: 60%;
+    /*border: 1px solid black;*/
+}
+
+
+#form{
+    width: 80%;
+}
+
+.form1{
+    margin-top: 0.5em;
+    width: 55%;
+    text-align: center;
+}
+
+img{
+    width: 25em;
+}
+
+a{
+    color: black;
+}
+

@@ -1,0 +1,42 @@
+table {
+    border: 1px solid grey;
+    width: 80%;
+    text-align: center;
+    font-family: ‘Source Sans Pro’, sans-serif;
+    font-size: 18px;
+    line-height: 32px;
+    margin: 0 0 24px;
+}
+
+li{
+    list-style-type: none;
+}
+
+th {border: 1px solid grey;}
+
+td {border: 1px solid grey;}
+
+body{
+    background-color: cadetblue;
+}
+
+section{
+    background-color: white;
+    margin-top: 2em;
+    margin-left: 20%;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    width: 60%;
+    border: 1px solid black;
+}
+
+
+#form{
+    width: 80%;
+}
+
+.form1{
+    margin-top: 0.5em;
+    width: 55%;
+    text-align: center;
+}
